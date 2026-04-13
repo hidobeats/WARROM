@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"/c/Users/Aibek/.claude/image-cache/98cde724-9974-429d-a3ee-9a4508546d61/1.png\" \"/c/Projects/NEXERA/Claude Agent Teams TEST/phase1_blind_eval_tokens.png\")",
+      "Bash(cp \"/c/Users/Aibek/.claude/image-cache/98cde724-9974-429d-a3ee-9a4508546d61/2.png\" \"/c/Projects/NEXERA/Claude Agent Teams TEST/phase2_debate_tokens.png\")"
+    ]
+  }
+}
