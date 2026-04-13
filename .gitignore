@@ -1,0 +1,24 @@
+# WARROOM
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore generated project artifacts
+# You may choose to comment this out if you WANT to version control your brainstorms
+# But generally, projects/ should be ignored in the public repository
+projects/*
+!projects/.gitkeep
+
+# Ignore memory archives
+memory/archive/*
+!memory/archive/.gitkeep
+
+# Ignore IDE files
+/.vscode/
+/.idea/
+
+# Ignore Python/Node artifacts if you explicitly add a local orchestrator
+node_modules/
+__pycache__/
+*.pyc
+.env
