@@ -1,4 +1,4 @@
-# WARROOM v2.1
+# WARROOM v1.0
 **Advanced Agentic Brainstorming & Architecture System**
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
