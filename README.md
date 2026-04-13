@@ -2,7 +2,7 @@
 **Advanced Agentic Brainstorming & Architecture System**
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Version](https://img.shields.io/badge/Version-2.1-green.svg)
+![Version](https://img.shields.io/badge/Version-1.0-green.svg)
 
 WARROOM is an autonomous multi-agent system built to run within your IDE or terminal. It is designed for aggressive "pressure-testing," idea generation, and architectural planning for tech startups. The system emulates a closed-door Board of Directors meeting featuring 7 highly specialized AI agents, each wielding distinct personas, methodologies, and mental frameworks.
 
